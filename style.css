@@ -20,4 +20,9 @@ a {
   padding-right: 10px;
   background-color: green;
 }
+p {
+  width: 800px;
+  text-align: center;
+  
+}
 
