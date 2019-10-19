@@ -38,6 +38,11 @@ figcaption {
   width: 800px;	
 }
 
+#details {	
+  display: block;	
+  text-align: center; 	
+}
+
  div {	
   background-color: gray;	
   text-align: center; 	
